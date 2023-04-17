@@ -9,7 +9,7 @@
   "author": "Neha Yadav",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.1",
+    "@openzeppelin/contracts": "^4.8.3",
     "@truffle/hdwallet-provider": "^2.0.0",
     "dotenv": "^10.0.0",
     "truffle": "^5.4.24"
